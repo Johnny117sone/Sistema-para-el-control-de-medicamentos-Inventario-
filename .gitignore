@@ -1,0 +1,31 @@
+# Bases de datos (contienen datos reales de operación, no deben subirse)
+*.db
+*.sqlite
+*.sqlite3
+
+# Bytecode / cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Builds de PyInstaller (ejecutables generados, no código fuente)
+build/
+dist/
+
+# Archivos de IDEs / editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
